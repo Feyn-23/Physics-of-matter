@@ -1,3 +1,8 @@
-.synctex
+# remove .synctex.gz files
+*.synctex.gz
+
+# remove build folder
 build
-.DS_Store
+
+#remove .DS_Store files
+*.DS_Store
